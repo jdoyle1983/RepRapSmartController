@@ -1,6 +1,13 @@
 #ifndef REPRAPFULLGRAPHICSMARTCONTROLLER_H
 #define REPRAPFULLGRAPHICSMARTCONTROLLER_H
 
+/* 
+ *  These are set to the defaults
+ *  RAMPS V1.4
+ *  RepRapDiscount / RepRap
+ *  Full Graphic Smart Controller
+ */
+
 #ifndef RR_CFG_Encoder_DirectionPin1
   #define RR_CFG_Encoder_DirectionPin1 31
 #endif
